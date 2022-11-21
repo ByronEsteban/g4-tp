@@ -847,7 +847,7 @@
         {
           "text": "Porque es una paradoja viviente",
           "correct": true
-        },
+        }
       ]
     },
         {
@@ -1076,7 +1076,7 @@
             {
               "text": "Running Up That Hill",
               "correct": true
-            },
+            }
           ]
         },
             {
@@ -1308,7 +1308,7 @@
                 {
                   "text": "Todas son correctas",
                   "correct": true
-                },
+                }
               ]
             },
                 {
@@ -1538,7 +1538,7 @@
                     {
                       "text": "Santiago Morito",
                       "correct": true
-                    },
+                    }
                   ]
                 },
                     {
@@ -1630,6 +1630,6 @@
                           "correct": false
                         }
                       ]
-                    },
+                    }
 
 ]
