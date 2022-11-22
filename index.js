@@ -5,7 +5,7 @@ import morgan from 'morgan';
 const PORT = process.env.PORT || 4000;
 // const PORT = 3000;
 const DB = process.env.MONGODB_URI || 'mongodb://127.0.0.1/Preguntados';
-// const DB = 'mongodb+srv://preguntados:preguntados@preguntados.y0vjnwo.mongodb.net/preguntados?retryWrites=true&w=majority';
+// const DB = process.env.DB || 'mongodb+srv://preguntados:preguntados@preguntados.y0vjnwo.mongodb.net/preguntados?retryWrites=true&w=majority';
 
 const app = express();
 
